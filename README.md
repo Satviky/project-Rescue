@@ -2,7 +2,7 @@
 
 ## Project Rescue by DreamyDevz
 
-![Project Rescue Banner](https://www.canva.com/design/DAGZ0P5gGDE/Ck3Aq60M4gzSeoIYrSWiOg/view?utm_content=DAGZ0P5gGDE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h77f9111fb2)
+![Project Rescue Banner](Project-Rescue.png)
 
 ### 🔍 Unravel the Mystery
 
