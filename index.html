@@ -26,28 +26,48 @@
 <meta name="msvalidate.01" content="2A24D59ECA3543CA75FA54C86B9CB1FE" />
 </head>
 
+
 <body>
-    <nav class="p-3 mb-2 bg-black text-white d-flex justify-content-between" style="align-items: center;">
+    <nav class="p-3 mb-2 bg-black text-white d-flex justify-content-lg-between
+    " style="align-items: center;">
         <div class="com-n">
             <span>Project</span> <span>Rescue</span>
         </div>
-        <ul class="nav nav-underline">
-            <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#proj">Project Rescue</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="projects.html">All Projects</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="index.html#changelog">Changelog</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link disabled" aria-disabled="true">Contact</a>
-            </li>
-        </ul>
+        <div class="nav-default">
+            <ul class="nav nav-underline">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#proj">Project Rescue</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="projects.html">Other Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html#changelog">Changelog</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" aria-disabled="true">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <div class="nav-phone">
+            <div class="btn-group dropend">
+                <button type="button" class="btn btn-outline-light dropdown-toggle" data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    &#8801;
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item active" href="index.html" aria-current="true">Home Page</a></li>
+                    <li><a class="dropdown-item" href="#proj">Project Rescue</a></li>
+                    <li><a class="dropdown-item" href="projects.html">All Projects</a></li>
+                    <li><a class="dropdown-item" href="index.html#changelog">changelog</a></li>
+                    <li><a class="dropdown-item disabled" aria-disabled="true">Contact</a></li>
+                </ul>
+            </div>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+        </div>
         <div class="right-el">
             <img src="" alt="Project-Rescue-Game">
         </div>
@@ -141,6 +161,7 @@
         <div><a href="mailto:it10800222125@gmail.com">&#64 Satviky</a></div>
     </footer>
 </body>
+    
 <script src="script.js"></script>
 
 </html>
