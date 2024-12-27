@@ -6,10 +6,12 @@
     --link-color: lavender;
     --button-bg: #333;
     --button-text: white;
+    --bs-nav-link-color: aliceblue;
 }
 
 body.light-mode {
-    --bg-color: aliceblue;
+    /* --bg-color: aliceblue; */
+    --bg-color: rgb(222, 237, 251);
     --text-color: #1b1b1b;
     --header-bg: #e1e1e1;
     --footer-bg: #e1e1e1;
@@ -27,19 +29,22 @@ body {
     transition: all 1s ease-out;
 }
 
-html {
-    scroll-behavior: smooth;
+
+.nav-underline .nav-link.active, .nav-underline .show>.nav-link{
+    color:aliceblue;
 }
 
-nav ul li{
-    text-decoration: none;
+.nav-link{
+    color: lavender;
+    --bs-nav-link-hover-color: rgb(211, 211, 254);
+}
+
+ul{
     list-style: none;
 }
 
-nav ul{
-    display: flex;
-    justify-content: space-between;
-    width: 50vw;
+html {
+    scroll-behavior: smooth;
 }
 
 header {
@@ -48,6 +53,7 @@ header {
     background-color: var(--header-bg);
     color: var(--text-color);
 }
+
 
 main {
     padding: 20px;
@@ -171,6 +177,8 @@ button:hover {
 .fade-in {
     animation: fadeIn 2s ease-in;
 }
+
+
 
 @keyframes gradientAnimation {
     0% {
