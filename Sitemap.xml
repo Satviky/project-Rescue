@@ -6,23 +6,23 @@
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
-<!--     <url>
+    <url>
         <loc>https://project-rescue.onrender.com/project-rescue</loc>
         <lastmod>2024-12-24</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-    </url> -->
+    </url>
     <url>
         <loc>https://project-rescue.onrender.com/projects</loc>
         <lastmod>2024-12-27</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
-<!--     <url>
+    <url>
         <loc>https://project-rescue.onrender.com/index.html#changelog</loc>
         <lastmod>2024-12-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
-    </url> -->
+    </url>
     <!-- Add other URLs as needed -->
 </urlset>
