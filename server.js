@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 app.get('/rescue', (req, res) => {
     res.render('project-rescue');
 });
-app.get('/proj', (req, res) => {
+app.get('/project', (req, res) => {
     res.render('projects');
 });
 
