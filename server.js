@@ -19,6 +19,9 @@ app.get('/rescue', (req, res) => {
 app.get('/project', (req, res) => {
     res.render('projects');
 });
+app.get('/polls', (req, res) => {
+    res.render('poll');
+});
 
 // Include your existing routes here...
 
