@@ -8,7 +8,7 @@ app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 app.set('view engine', 'ejs');
 
-// mongoose.connect('mongodb+srv://<username>:<password>@cluster.mongodb.net/yourDB?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
+// mongoose.connect('mongodb+srv://proj-rescue:<db_password>@proj-rescue1.crazu.mongodb.net/poll?retryWrites=true&w=majority', { useNewUrlParser: true, useUnifiedTopology: true });
 
 app.get('/', (req, res) => {
     res.render('index');
