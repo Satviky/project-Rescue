@@ -38,3 +38,13 @@ For more details, feel free to reach out:
 
 - **Email**: [Satvik Gupta](mailto:it10800222125@gmail.com)
 
+
+---
+
+### 📊 Repository Activity
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Satviky/project-Rescue)
+![GitHub contributors](https://img.shields.io/github/contributors/Satviky/project-Rescue)
+![GitHub issues](https://img.shields.io/github/issues/Satviky/project-Rescue)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Satviky/project-Rescue)
+
