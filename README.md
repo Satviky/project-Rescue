@@ -1,6 +1,6 @@
 
 
-## Project Rescue by DreamyDevz
+## Project Rescue
 
 ![Project Rescue Banner](Project-Rescue.png)
 
