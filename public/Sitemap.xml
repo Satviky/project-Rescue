@@ -7,13 +7,13 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://project-rescue.onrender.com/rescue</loc>
+        <loc>https://project-rescue.onrender.com/project-rescue</loc>
         <lastmod>2024-12-31</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://project-rescue.onrender.com/project</loc>
+        <loc>https://project-rescue.onrender.com/projects</loc>
         <lastmod>2024-12-27</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
