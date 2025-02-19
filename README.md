@@ -37,7 +37,7 @@
 For more details, feel free to reach out:
 
 - **Email**: [Satvik Gupta](mailto:it10800222125@gmail.com)
-- For Any Query you can reach out to [@mrengineer0510[^1]](https://github.com/mrengineer0510)
+- For Any Query you can reach out to [@mrengineer0510](https://github.com/mrengineer0510)[^1]
 
 
 ---
