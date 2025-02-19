@@ -41,10 +41,10 @@ For more details, feel free to reach out:
 
 ---
 
-- [x] Development Tracking website ready? #739
-- [x] Demo site updated #739
-- [ ] Main Game Beta APK Ready? #740
-- [ ] Game launched :tada: #740
+- [x] ✔️Development Tracking website ready? 
+- [x] ✔️Demo site updated 
+- [ ] :x:Main Game Beta APK Ready? 
+- [ ] :x: Game launched :tada: 
 
 ---
 ### 📊 Repository Activity
