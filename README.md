@@ -29,6 +29,7 @@
 
 - **GitHub Repository**: [Project \"Rescue\"](https://github.com/Satviky/project-Rescue)
 - **Development Logs**: [Website](https://project-Rescue.onrender.com)
+- **Demo Website**: [Website](https://pr-rescue.vercel.app/)[^1]
 
 ---
 
@@ -37,7 +38,7 @@
 For more details, feel free to reach out:
 
 - **Email**: [Satvik Gupta](mailto:it10800222125@gmail.com)
-- For Any Query you can reach out to [@mrengineer0510](https://github.com/mrengineer0510)[^1]
+- For Any Query you can reach out to [@mrengineer0510](https://github.com/mrengineer0510)[^2]
 
 
 ---
@@ -56,5 +57,6 @@ For more details, feel free to reach out:
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Satviky/project-Rescue)
 
 
-[^1]: Mr Engineer aka Nikhil Kumar.
+[^1]: This is only for Demo purpose and is not the Beta Version for the game.
+[^2]: Mr Engineer aka Nikhil Kumar.
 
