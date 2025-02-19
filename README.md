@@ -41,6 +41,12 @@ For more details, feel free to reach out:
 
 ---
 
+- [x] Development Tracking website ready?
+- [x] Demo site updated
+- [ ] Main Game Beta APK Ready?
+- [ ] Game launched :tada:
+
+---
 ### 📊 Repository Activity
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Satviky/project-Rescue)
