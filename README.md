@@ -37,6 +37,7 @@
 For more details, feel free to reach out:
 
 - **Email**: [Satvik Gupta](mailto:it10800222125@gmail.com)
+- For Any Query you can reach out to @mrengineer0510[^1]
 
 
 ---
@@ -53,4 +54,7 @@ For more details, feel free to reach out:
 ![GitHub contributors](https://img.shields.io/github/contributors/Satviky/project-Rescue)
 ![GitHub issues](https://img.shields.io/github/issues/Satviky/project-Rescue)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Satviky/project-Rescue)
+
+
+[^1]: Mr Engineer aka Nikhil Kumar.
 
