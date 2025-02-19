@@ -56,6 +56,12 @@ For more details, feel free to reach out:
 ![GitHub issues](https://img.shields.io/github/issues/Satviky/project-Rescue)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Satviky/project-Rescue)
 
+---
+
+> [!WARNING]
+> This is scheduled to be launched before Novemeber 2025.
+
+---
 
 [^1]: This is only for Demo purpose and is not the Beta Version for the game.
 [^2]: Mr Engineer aka Nikhil Kumar.
