@@ -1,12 +1,12 @@
 
 
-## Project Rescue
+## RESQ
 
 ![Project Rescue Banner](Project-Rescue.png)
 
 ### 🔍 Unravel the Mystery
 
-**Project Rescue** is an immersive mystery game where players navigate a world of secrets and hidden truths. Communicate through enigmatic chats, uncover clues, and solve puzzles to uncover the story behind Ollie's disappearance.
+**Project Rescue** is an immersive mystery game where players navigate a world of secrets and hidden truths. Communicate through enigmatic chats, uncover clues, and solve puzzles to uncover the story behind Lucas's disappearance. Developed by Shadowveil Stuidos.
 
 ---
 
