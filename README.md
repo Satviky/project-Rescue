@@ -61,6 +61,8 @@ For more details, feel free to reach out:
 > [!WARNING]
 > This is scheduled to be launched before Novemeber 2025.
 
+... regarding the warning.... now it ain't getting launched anywhere near 2025... because it have been moved forward due to our other projects like (simplify goals)[https://github.com/Satviky/Simplify-Goals]
+
 ---
 
 [^1]: This is only for Demo purpose and is not the Beta Version for the game.
